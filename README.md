@@ -9,5 +9,6 @@ create a list of books based upon a user's preferred topic.
 * Threads and Parallelism
   + AsyncTask
   + Loaders
+* Checking Network Connectivity 
 
 
