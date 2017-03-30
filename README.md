@@ -1,4 +1,4 @@
-# Book Listin gApp
+# Book Listing App
 Project #7 from the Udacity Android Basics Nanodegree. The app uses HTTP requests to the Google Books API to 
 create a list of books based upon a user's preferred topic.
 
